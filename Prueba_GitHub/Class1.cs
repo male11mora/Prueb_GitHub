@@ -9,5 +9,6 @@ namespace Prueba_GitHub
     internal class Class1
     {
         public void mtdClasenueva();
+        {ytytfghfg}
     }
 }
