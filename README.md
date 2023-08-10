@@ -1,4 +1,3 @@
 # Prueb_GitHub
 hooaaaaa
-Como estas gfdfdfdfd
-tgfbfbr
+Como estas
